@@ -1,0 +1,188 @@
+Section I training [Introduction Session]
+
+I. You will ensure that your service quality is at a high standard.
+II. You will maintain a professional image.
+III. You will communicate with fellow members of staff, members of the Management and you will communicate to any passenger in a normal and civilised way.
+IV. Grammar and punctuation is required during flights.
+V. Being inactive can risk you getting terminated, unless you are on an absence.
+
+
+Section II Training [Customer Service]
+
+I. Turkish Airlines has high standards within its staff team. This must be achieved trough proper and good customer service.
+
+II. If you are assigned the role of Customer Service during a flight, you must stand in areas around the airport such as check in around duty free and shops and around
+the gate.
+
+III. These are all key points in a passenger's journey and they must be places where they need the most help. 
+
+IV. If a customer approaches you, ensure to be respectful and matuxre. Simply assist them in the best way possible.
+
+IV.I. If they ask for where the gate or lounge is, simply bring them there with to their requested area of the airport.
+
+IV.II. It is important to familiarise yourself with knowing where key locations are, such as lounges or gates so you know where to go when directing a customer. Doing Customer Service is pretty self explanatory and simple.
+
+V. Whilst doing Customer Service, you may encounter a few problems. It is your responsibility to fix them yourself. There are many examples, but here are some examples.
+
+V.I. Check-in not working for a customer: If check-in isn't working for a customer and they have attempted to check in multiple times, you should check them in manually.
+
+V.II. Customer talking in another language: If the customer you are communicating with doesn't speak English, you will need to find a staff member that talks the language
+that the customer is speaking or utilise google translate or any other translator.
+
+V.III. UI stuck on customers screen: If a customer has a UI stuck on their screen, you will instruct them to head to one of the refreshing buttons found all around the airport.
+
+Section II [Customer Service] Small Test.
+
+Scenario I: A customer is currently trying to check-in, but the system isn't working. What would you do in this scenario?
+Solution I: Manually check them in.
+
+Scenario II: A customer is looking for Gate B1A at Istanbul Airport. They approach you and ask you where the gate is. What would you do?
+Solution II: Guide them towards the gate.
+
+
+Greeting: Very good everyone. We will now move onto personalisation. Having personalisation has a big effect on passengers. Your service and greetings are more catered and make them feel cared for and more specialised.
+towards customers.
+
+For example, instead of saying, Merhaba! Welcome onboard Turkish Airlines. We hope you have a pleasant flight! If you have any questions, please do let me know as I am always willing to help!
+
+
+
+
+
+GSM on flights is not Department Manager. Senior GS+ can be.
+Naming: RP NAME or Username , or - Ground Services, 2 Letters Language
+
+When Entering: :give me Staff , :give me GS
+
+Cab and Tunel Lights when parked Jetway
+WideBodies - L2 when one jetway, L1 and L2 when two Jetways
+
+
+`Phase II.I`
+*Non-Vehicle Components*
+
+II.I.I *Joining A Game*
+
+**#orientation** - Ground Service roles will be given by GS Manager. Channel is for senior role briefings.
+
+Ground Service Manager is a **Senior GC, not a Department Manager**.
+
+The GSM manages Ground Services, provides leadership, and assists with needs.
+
+Once you join, put your uniform on, and name yourself. `[RP Name], Ground Services [2 LETTER LANGUAGE]` or `[USERNAME] - Ground Services [2 LETTER LANGUAGE]`
+
+Use the `:name me [format]` command.
+
+Then, do the commands `:give me staff` *and* `:give me GS` to obtain all tools.
+
+II.I.II *Flight Overview*
+
+The following times are important, as they are mile markers for the flight.
+`15` minutes before opening - *Briefing (Start getting ready), Staff Join Time*
+`5-10` minutes after opening - *Plane arrives at gate.*
+`15-20` minutes after opening - *Server lock/Airport Service Closure/Detach Vehicles.*
+`20-25` minutes after opening - *Boarding*
+*Note that these times may vary if it is an inaugural, ES*T flight, or a Turkish Airlines suited flight. Make sure to view the briefing sheet to see the times.
+
+II.I.III *Non-Vehicle Duties*
+
+Marshal is used to guide the plane into a stand.
+
+To turn the sticks on, press `E`. Press `Z` to wave sticks, in a go forwrd motion. Press `X` to do the same, but as a "go slow". Press `C` and drag line to stop the plane. Finally, press `F` to stop animations.
+
+You must press `Z` before pressing `C` or `X`.
+
+Jetway is used to take passengers from airport to plane or vice versa. We use **PROP** and **uJetway**. uJetway is very simple and uses buttons. PROP is the more advanced jetway using `WASD` for movement. `F&R` for tilting, `Q&E` for moving the cab and more commands that can be found in the controls menu on the jetway.
+
+Lights are controlled by the button on the bottom left corner. Make sure you open Cab and Rotunda doors in the jetway.
+
+
+
+# Phase II.III
+
+## De-Icing Operations
+- You should insert the truck in snowy/cold airports and enviroments, such as **Krakow**
+
+- It is not expected to do a perfect job, but ensure that it is realistic as it is purely for realism and roleplay purposes.
+
+- De-icing happens at the gate
+
+## Fire Truck Operations
+
+- Fire trucks are used for inaugural and emergency situations.
+
+- There is a GUI to operate the hose, and to recieve the GUI, you should enter the right-most seat in the cab.
+
+- In a inaugural situation, two trucks will be lined up opposite each other, and the top hose will be used to provide a water salute.
+
+## Cobus Operations
+
+- The *cobus* is always used in **Cluj-Napoca Airport**.
+
+- When the bus is in its "anchored" phase, ensure to remain in the driver's seat, otherwise it may cause the bus to malfunction.
+
+- Currently, the anchor button doesn't work as intended, so a temporary replacement is to use the `:freeze me` command to anchor.
+
+- Make sure to come to a **complete** stop before disembarking PAX and anchoring!
+
+
+II.III - Miscellaneous Vehicles
+
+1. De-Icing truck, it is to be used in snowy and cold airports such as Krakow, with approval of the FM and when getting dismissed off a briefing. To operate it jump in and press the button on the far right side. Then click the button on the left to access controls, there are also slides to control the hose angle and the height depending on the aircraft that is having ice removed. You don't need to do it perfectly because it is for roleplay. 
+
+2. Fire truck, The fire truck is only used for 2 things, 1 Inaugurals, 2. Emergencies. During emergencies position the fire truck near the other vehicles and once the plane has landed and stopped begin spraying the plane with water by using the GUI on the top left corner of the screen. To access the UG hop on the rightmost seat of the firetruck and try to only use the water settings, the fire truck is moved using WASD. 
+
+3. Cobus, When you sit on the BUS you should see a GUI pop on the top right corner that says "Anchor" and "Jump Power". Keep in mind that when you see the warning symbol on the button it means it is on. Remember when Anchor is on that you can't jump off the bus, or else it will bug. When parked make sure the bus is at a complete stop before your freeze yourself, and turn off jumppower. Once passengers get in they won't be able to jump until you turn off the jumppower. Remember to drive in a nice fashion along the road lines and to not be unprofessional whilst driving the Cobus.
+
+
+
+
+II.II Attaching & Detaching Vehicles 
+
+#orientation for appointed roles.
+Deattach the vehicleswhen airport services close, but not stairs. De-attach the, when boarding is completed.
+
+Baggage:
+Baggage Truck and Loader. 2 trucks and 2 loaders. Loaders may be raised or lowered depending where is aircraft cargo door.
+
+Fuel: Q and E to shift gears. Under the right wing tip position the hose.
+
+Catering Truck: Turn on - press button or E. Regional/Narrowbodies use 1, else 2. WASD to drive. Use controls to raise/lower and extend platform. Press E on platform near compartment, when option shows use panel to load the carts onto aircraft.
+
+Lavatory Truck: Turn Engine on. E to lower/raise. Q to attach the hose. Red box on mouse, and position it under the tail and suck the poo out of aircraft.
+
+Stairs: Press button to start. WASD to move. J or P for lights when required. When postioned press C to anchor. Position Stairs on front and back.
+
+Vehicle Branding: Airlines use the ground crew of the airport. When Havas is not avaiable use unbranded. At Gazipasa use Havas always. When Pegasus at other also use Havas, else use Turkish Ground Services.  All Air Albania at Tirana use Air Albania Livery. Pegasus branded buses are meant to be used at Istanbul SAW. 
+
+I.I Non-Vehicle Components
+15 minutes before opening - Briefing (Start getting ready).
+5-10 minutes after opening - Plane arrives at gate.
+15-20 minutes after opening - Server slock/Airport Service Closure/Detach Vehicles.
+20-25 minutes after opening - Boarding
+Make sure these are memorized.
+Note that these times may vary if it is an inaugural, EST flight, or a Turkish Airlines suited flight. Make sure to view the briefing sheet to see the times. 
+
+
+II.III Miscellanous Vehicles
+Miscellanous Vehicles: Deicer, Cobus, Follow Me Car and Fire truck (no fire truck was in the training)
+
+De-Icing truck:
+Only to be used in snowy or cold airports like Krakow. To operate, jump in and click power button on right-hand side.
+Click on button to left of it to access controls. Slides to control hose angle and height depending on aircraft that is getting ice removal. Simply for roleplay.
+
+Fire truck: 
+Only used for inaugurals and emergencies. If in emergency, position fire truck near other vehicles and when plane has landed and fully stopped, spray the plane with water using the GUI on top left corner of screen. 
+During Inaugurals there are 2 fire trucks on opposite sides on taxiway (chosen by host or someone in superior rank). They will face each other. Called a water salute. TOP water nozzle should be used for this. Host or higher rank will use btools to point water upwards.
+Cobus Service: 
+Must complete training to get "Cobus Bus License" which lets you drive Cobus, if you didn't do this training you can't use it.
+Used to transport passengers from airport to aircraft when gates without jetway are used. Always used in Cluj-Napoca airport as it only has bus gates. 
+To operate cobus sit in driver's seat, click "Engine" button on right-bottom corner of screen. That will allow you to move vehicle with WASD. You may see the controls by clicking button below engine that says Settings (controls for lights and doors)
+When you sit in driver's seat, a GUI Pop Up on top right corner of screen will show up that says "Anchor" and "Jump-power". When warning symbol on "Jump-power" is shown, that means it's ON. When anchor is on, you CANNOT jump out the bus or it will break.
+(CURRENTLY) When clicking anchor, it will break the bus. When you need to anchor bus, you must use the :freeze command instead of pressing "Anchor"
+When parked, make sure bus is fully stopped before freezing yourself, and turn off "Jump-Power". Once passengers are in the bus, they can't jump until you turn on "Jump-Power"
+
+Follow Me Car:
+Used to guide planes to the gate. Make sure this is inserted as you arrive to the destination. Once plane is on final, make sure you are on taxiway and next to runway and are tracking the captain and somebody at gate. 
+Once plane has slowed down, head to closest entryway from runway to taxiway and make sure you're in front of the plane. As plane gets closer, move and drive along taxiway to gate.
+Don't go too fast or too slow. When you reach gate and plane is there, drive away from yellow line so the plane has room to park.
